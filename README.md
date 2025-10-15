@@ -2,6 +2,7 @@
 
 **Version:** 1.0  
 **Author:** Awais Awan 
+
 **Description:** A WordPress plugin that registers a custom post type named **"Project"** with REST API support.  
 Use it to create and manage projects, and fetch them in external applications (like Laravel) via the WordPress REST API.
 
